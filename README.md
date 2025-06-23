@@ -6,9 +6,6 @@
 3. node.js v12.18.2
 
 **Installation**
-- To clone it on your local machine
->git clone https://github.com/Sushmi-pal/laravelnew.git
-
 - Switch to the repo folder
 >cd laravelnew
 
